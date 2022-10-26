@@ -1,0 +1,1 @@
+import this # Esto es un manifiesto sobre Python
