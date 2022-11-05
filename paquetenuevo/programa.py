@@ -9,6 +9,9 @@ print(coche1.kilometros)
 coche2 = Electrico('MODEL3', 'TESLA', 'ROJO')
 coche2.características()
 print (coche2.color)
-
+coche2.características()
+coche2.modificar_kilometros(300)
+print (coche2.kilometros)
+coche2.características()
 
 
